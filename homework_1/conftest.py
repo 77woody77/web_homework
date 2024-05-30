@@ -34,4 +34,4 @@ def content():
 
 @pytest.fixture()
 def find_description():
-    return "igvn aksdvn lds"
+    return "Hello world!"
